@@ -1,6 +1,6 @@
 <h1>Simple-react-calculator</h1>
 
-A React calculator built with [React.js](https://github.com/facebook/react), [emotion](https://github.com/emotion-js/emotion) and [hooks](https://reactjs.org/docs/hooks-intro.html).</p> I've used [this calculator design concept](https://www.uplabs.com/posts/calculator-animation-icons) which is designed by Maximiliano Catani.
+A React calculator built with [React.js](https://github.com/facebook/react) and [hooks](https://reactjs.org/docs/hooks-intro.html).</p> I've used [this calculator design concept](https://www.uplabs.com/posts/calculator-animation-icons) which is designed by Maximiliano Catani. It performs all the basic calculator operations that should traditionally performed with a interactive UI.
 
 ## Live Demo
 
