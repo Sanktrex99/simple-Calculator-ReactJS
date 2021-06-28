@@ -4,7 +4,7 @@ A React calculator built with [React.js](https://github.com/facebook/react) and 
 
 ## Live Demo
 
-You can test on sanket-calculator.netlify.app
+You can test on https://sanket-calculator.netlify.app
 
 ## Running Locally
 
